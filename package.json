@@ -1,0 +1,25 @@
+{
+  "name": "template-elixir-assets",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-11",
+    "laravel-elixir-vue-2": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianfonolla/TemplateElixirAssets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianfonolla/TemplateElixirAssets/issues"
+  },
+  "homepage": "https://github.com/cristianfonolla/TemplateElixirAssets#readme"
+}
