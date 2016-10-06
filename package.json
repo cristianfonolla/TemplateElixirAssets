@@ -9,7 +9,9 @@
     "laravel-elixir-vue-2": "^0.2.0",
     "laravel-elixir-webpack-official": "^1.0.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
